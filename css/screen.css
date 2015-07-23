@@ -1,0 +1,8 @@
+/* line 3, ../sass/screen.scss */
+header h1 {
+  font-size: 50px;
+}
+/* line 7, ../sass/screen.scss */
+header p {
+  color: yellow;
+}
